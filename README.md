@@ -6,7 +6,7 @@ The project includes a simple web application that presents the user with a rand
 
 - JavaScript
 - HTML
--CSS
+- CSS
 - Axios (used for HTTP requests)
 - [Unsplash API](https://unsplash.com/developers) (For random images)
 - [Chuck Norris API](https://api.chucknorris.io/) (for Chuck Norris jokes)
